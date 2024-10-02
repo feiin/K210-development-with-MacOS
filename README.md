@@ -94,3 +94,5 @@ pip3 install pyelftools
 
 ```
 
+成功如下图
+![kflash hello_word](./images/kflash.jpg)
